@@ -1,12 +1,12 @@
 body {
-    background-color: #305050;
-    color: white ;
+    background-color: #a5173a;
+    color: rgb(2, 2, 2) ;
     text-align: center;
     font-family: Verdana;
 
 }
 h2 {
-    color: orange;
+    color: rgb(0, 0, 0);
     font-size: 40px;
 }
 p {
@@ -26,4 +26,6 @@ p {
         font-size: 24px;
     }
 }
+
+
 
